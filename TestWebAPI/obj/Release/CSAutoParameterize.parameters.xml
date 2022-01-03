@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="connectPhoneManagement-Web.config Connection String" description="connectPhoneManagement Connection String used in web.config by the application to access the database." defaultValue="workstation id=PhoneManagement.mssql.somee.com;packet size=4096;user id=hoangkhang0410_SQLLogin_1;pwd=xiufk3mtj1;data source=PhoneManagement.mssql.somee.com;persist security info=False;initial catalog=PhoneManagement" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="E:\\Data\\Khang\\Learning\\third-year\\first-semester\\Mobile-Programing\\BTTH\\TestWebAPI\\TestWebAPI\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='connectPhoneManagement']/@connectionString" />
+  </parameter>
+</parameters>
